@@ -51,6 +51,48 @@ export default function App() {
     </div>
   );
 }
+// [{}, {}, {}]
+let peopleInfo = [
+  {
+    Name: "Melody",
+    Place: "Brooklyn",
+    Color: "#c8a2c8",
+    BirthYear: "2003",
+    BirthMonth: "May" // looking good!
+  },
+  {
+    Name: "Maxwell",
+    Place: "New Jersey",
+    Color: "#ebba34",
+    BirthYear: "1992",
+    BirthMonth: "February"
+    // More info here! :D
+  },
+  {
+    Name: "Jean",
+    Place: "Manhattan",
+    Color: "#2a693b",
+    BirthYear: "2005",
+    BirthMonth: "January"
+    // More info here! :D
+  },
+  {
+    Name: "Judy",
+    Place: "Brooklyn",
+    Color: "#cd94f2",
+    BirthYear: "1991",
+    BirthMonth: "January"
+    // More info here! :D
+  },
+  {
+    Name: "Reginea",
+    Place: "Queens",
+    Color: "#eb7d34",
+    BirthYear: "2005",
+    BirthMonth: "August"
+    // More info here! :D
+  }
+];
 
 let hypeNames = ["Melody", "Maxwell", "Jean", "Judy", "Reginea"];
 
