@@ -46,9 +46,6 @@ let hypePlaces = ["Brooklyn", "New Jersey", "Manhattan", "Brooklyn", "Queens"];
 
 let hypeColors = ["#c8a2c8", "#ebba34", "#2a693b", "#cd94f2", " #eb7d34"];
 
-// placeholder till I display the colors myself
-// at least in text?
-
 let hypeYear = ["2003", "1992", "2005", "1991", "2005"];
 
 let hypeMonth = ["May", "February", "January", "January", "August"];
